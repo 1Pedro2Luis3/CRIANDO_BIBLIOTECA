@@ -1,2 +1,2 @@
-# CRIANDO_BIBLIOTECA
-criando uma nova biblioteca 
+# collisionAlgorithm
+Algorithm to detect collision between two objects
